@@ -1,3 +1,8 @@
+<!-- Banner -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/irmita-dev/ai-assistant/refs/heads/main/ai_assistant_banner_irmita_dev.png" width="65%" alt="Irma's GitHub banner ai assistant">
+</p>
+
 <h1 align="center">🤖 AI ASSISTANT</h1>
 
 <p align="center">Built in Python • Clean Architecture • TDD • CLI & GUI Demo</p>
